@@ -6,16 +6,7 @@
 #
 #  File Name:         Program4.py
 #
-#  Course:            COSC 1336 Programming Fundamentals I 
-#
-#  Due Date:          09-26-2019
-#
-#  Instructor:        Fred Kumi 
-#
-#  Chapter:           Chapters # 1-3
-#
-#  Description:
-#     This program is designed to calculate an employee's total net,gross,and overtime pay
+#  Description:       This program is designed to calculate an employee's total net, gross, and overtime pay 
 #
 #***************************************************************
 
@@ -98,7 +89,6 @@ def main():
 #**************************************************************
 def developerInfo():
     print('Name:     Renee White')
-    print('Course:   Programming Fundamentals I')
     print('Program:  Four')
     print()
     # End of the developerInfo function
